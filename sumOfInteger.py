@@ -1,4 +1,6 @@
-list = ["aaaa", "2", "bb", "3"]
+import re
+
+list = ["aaaa", "2", "bb", "3", "-3"]
 new_list = []
 
 

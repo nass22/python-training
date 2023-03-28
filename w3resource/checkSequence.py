@@ -14,6 +14,10 @@ Check if every consecutive sequence of zeroes is followed by a consecutive seque
 False
 """
 
+
+"""
+WARNING: here I don't look if the sequences are 0 or 1, but just if the sequences are the same!
+"""
 def checkSequence(sequence):
     listSequence = []
     lengthSequence = []

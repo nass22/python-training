@@ -16,3 +16,7 @@ print()
 print(exercice4(3))
 print()
 print(exercice4(17))
+
+"""
+    SOLUTION: SAME
+"""

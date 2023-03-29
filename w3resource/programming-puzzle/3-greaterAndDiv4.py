@@ -12,5 +12,5 @@ print(exercice3(854))
 
 
 """
-    SOLUTION (SAME)
+    SOLUTION: SAME
 """
